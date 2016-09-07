@@ -1,0 +1,21 @@
+BUBBLE CURSOR DATA
+
+On Block 1 of cursor type bubble and Trial 2 with selection 2 with A 307.2 and W 16 R 3 D 4 Time is 939 milliseconds with 0 errors 
+On Block 1 of cursor type bubble and Trial 2 with selection 3 with A 307.2 and W 16 R 3 D 4 Time is 1206 milliseconds with 1 errors 
+On Block 1 of cursor type bubble and Trial 2 with selection 4 with A 204.8 and W 16 R 3 D 4 Time is 778 milliseconds with 0 errors 
+On Block 1 of cursor type bubble and Trial 2 with selection 5 with A 204.8 and W 16 R 3 D 4 Time is 763 milliseconds with 0 errors 
+On Block 1 of cursor type bubble and Trial 2 with selection 6 with A 102.4 and W 16 R 3 D 4 Time is 633 milliseconds with 0 errors 
+On Block 1 of cursor type bubble and Trial 2 with selection 7 with A 204.8 and W 16 R 3 D 4 Time is 1195 milliseconds with 1 errors 
+On Block 1 of cursor type bubble and Trial 2 with selection 8 with A 307.2 and W 16 R 3 D 4 Time is 1199 milliseconds with 1 errors 
+On Block 1 of cursor type bubble and Trial 2 with selection 9 with A 102.4 and W 16 R 3 D 4 Time is 746 milliseconds with 0 errors 
+
+POINTER CURSOR DATA
+
+bubbleTrial.js:98 On Block 1 of cursor type pointer and Trial 2 with selection 2 with A 307.2 and W 32 R 1.3333333333333333 D 4 Time is 1273 milliseconds with 0 errors 
+bubbleTrial.js:98 On Block 1 of cursor type pointer and Trial 2 with selection 3 with A 204.8 and W 32 R 1.3333333333333333 D 4 Time is 1010 milliseconds with 0 errors 
+bubbleTrial.js:98 On Block 1 of cursor type pointer and Trial 2 with selection 4 with A 204.8 and W 32 R 1.3333333333333333 D 4 Time is 1050 milliseconds with 0 errors 
+bubbleTrial.js:98 On Block 1 of cursor type pointer and Trial 2 with selection 5 with A 307.2 and W 32 R 1.3333333333333333 D 4 Time is 1051 milliseconds with 0 errors 
+bubbleTrial.js:98 On Block 1 of cursor type pointer and Trial 2 with selection 6 with A 204.8 and W 32 R 1.3333333333333333 D 4 Time is 871 milliseconds with 0 errors 
+bubbleTrial.js:98 On Block 1 of cursor type pointer and Trial 2 with selection 7 with A 307.2 and W 32 R 1.3333333333333333 D 4 Time is 979 milliseconds with 0 errors 
+bubbleTrial.js:98 On Block 1 of cursor type pointer and Trial 2 with selection 8 with A 102.4 and W 32 R 1.3333333333333333 D 4 Time is 874 milliseconds with 0 errors 
+bubbleTrial.js:98 On Block 1 of cursor type pointer and Trial 2 with selection 9 with A 102.4 and W 32 R 1.3333333333333333 D 4 Time is 882 milliseconds with 0 errors 

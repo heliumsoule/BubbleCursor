@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<head>
+<meta charset="UTF-8">
+<title>Bubble Cursor</title>
+
+<link rel="stylesheet" href="CSS/mainStyle.css"/>
+</head>
+
+<body>
+	<canvas class="clearCanvas"></canvas>
+	<div class="container">
+		<div class="titleRowContainer">
+			<p class="headerTextSize customFont">An Implementation of Bubble Cursor from 
+				<a class="hyperlink" href="https://www.dgp.toronto.edu/papers/tgrossman_CHI2005.pdf">Microsoft</a>
+			</p>
+		</div>
+		<div class="multiRowContainer">
+			<div class="item item-before">
+				<p class="columnTitleSize columnText customFont">
+					Point Cursor
+				</p>
+				<p class="paraTextSize columnText customFont">
+					Standard point cursors have one activation point. 
+					<br><br>
+					As applications become more complex and user interfaces more difficult to navigate,
+					pointer cursors signficantly degrade software usability.
+				</p>
+			</div>
+			<div class="item item-before">
+				<p class="columnTitleSize columnText customFont">
+					Bubble Cursor
+				</p>
+				<p class="paraTextSize columnText customFont">
+					The bubble cursor from Microsoft is one solution.
+					<br><br>
+					It changes its activation area to select the nearest widget which makes software more
+					usable by increasing a target's effective width.
+				</p>
+			</div>
+			<div class="item item-last">
+				<p class="columnTitleSize columnText customFont">
+					Experiment
+				</p>
+				<p class="paraTextSize columnText customFont">
+					You, the subject, are testing cursor usability.
+					<br><br>
+					You'll be walked through the tutorial trials before starting the experiment. <span class="highlight">Click the 
+					<b>Start Experiment</b> button below when you're ready to start!</span>
+				</p>				
+			</div>
+		</div>
+		<div class="oneRowContainer">
+			<p class="headerTextSize customFont disableSelection">Start The Experiment</p>
+		</div>
+	</div>
+
+<script type="text/javascript" src="JS/jquery-1.9.0.min.js"></script>
+<script type="text/javascript" src="JS/bubble.js"></script>
+<script type="text/javascript" src="JS/bubbleTrial.js"></script>
+<script type="text/javascript" src="JS/start.js"></script>
+</body>
+
+</html>
