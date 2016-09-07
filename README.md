@@ -1,6 +1,5 @@
 # BubbleCursor
-Paper: The Bubble Cursor: Enhancing Target Acquisition by
-Dynamic Resizing of the Cursor’s Activation Area
+Paper: The Bubble Cursor: Enhancing Target Acquisition by Dynamic Resizing of the Cursor’s Activation Area (Microsoft Research)
 Youtube Link: https://www.youtube.com/watch?v=bZdX8G66ako
 Platform Requirements: Chrome 45.0, Firefox 45, Safari 9.0
 
